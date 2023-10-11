@@ -1,2 +1,2 @@
 # odin-recipes
-Learning
+Learning.Goal is to create first webpage.
